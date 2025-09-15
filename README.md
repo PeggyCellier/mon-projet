@@ -1,3 +1,3 @@
 # Mon Projet
 
-> Pitch court.
+> Example for students
